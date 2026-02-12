@@ -39,8 +39,10 @@ Supply Analysis
 |---|---|---|
 | ![Hotel Performance](Hotel%20Performance.jpg) | ![Seasonality](Seasonality%20&%20Demand%20Planning.jpg) | ![Supply & Demand](Supply%20&%20Demand%20Balance.jpg) |
 
-Economic Impact
-![Economic Impact](Economic%20Impact.jpg)
+Impact
+| Economic Impact |
+|---|
+![Economic Impact](Economic%20Imapact.jpg)
 
 
 
