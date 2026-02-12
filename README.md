@@ -28,20 +28,19 @@ Market Analysis
 | Market Intelligence | Purpose & Transport | Tourism Spending |
 |---|---|---|
 | ![Market Intelligence](Market%20Intelligence.jpg) | ![Purpose & Transport](Purpose%20&%20Transport%20Analysis.jpg) | ![Tourism Spending](Tourism%20Spending%20Deep%20Dive.jpg) |
+
 Investment Opportunities
 | Regional Investment | City Investment |
 |---|---|
-| ![Regional Investment](Regional%20Investment%20Opportunity.jpg) | ![City Investment](City%20Investment%20Opportunity.png) |
+| ![Regional Investment](Regional%20Investment%20Opportunity.jpg) | ![City Investment](City%20Investment%20Opportuninty.png) |
 
 Supply Analysis
 | Hotel Performance | Seasonality | Supply & Demand |
 |---|---|---|
 | ![Hotel Performance](Hotel%20Performance.jpg) | ![Seasonality](Seasonality%20&%20Demand%20Planning.jpg) | ![Supply & Demand](Supply%20&%20Demand%20Balance.jpg) |
 
-Impact
-| Economic Impact |
-|---|
-| ![Economic Impact](Economic%20Impact.jpg) |
+Economic Impact
+![Economic Impact](Economic%20Impact.jpg)
 
 
 
