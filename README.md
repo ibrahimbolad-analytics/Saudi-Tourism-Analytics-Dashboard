@@ -1,4 +1,4 @@
-# Saudi-Tourism-Analytics-Dashboard
+# Saudi-Tourism-Analytics-Dashboard https://github.com/ibrahimbolad-analytics/Saudi-Tourism-Analytics-Dashboard/blob/main/Cover%20Page.jpg
 I Developed a comprehensive strategic dashboard to analyze the Saudi Tourism sector (2019-2024), focusing on the Kingdom's progress toward Vision 2030.
 Developed a comprehensive strategic dashboard to analyze the Saudi Tourism sector (2019-2024), focusing on the Kingdom's progress toward Vision 2030.
 
