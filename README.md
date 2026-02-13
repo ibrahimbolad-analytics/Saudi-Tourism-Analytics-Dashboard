@@ -1,5 +1,6 @@
 # Saudi-Tourism-Analytics-Dashboard
 ![](Cover%20Page.jpg)
+![](Project%20Content.png)
 
 I Developed a comprehensive strategic dashboard to analyze the Saudi Tourism sector (2019-2024), focusing on the Kingdom's progress toward Vision 2030.
 Developed a comprehensive strategic dashboard to analyze the Saudi Tourism sector (2019-2024), focusing on the Kingdom's progress toward Vision 2030.
